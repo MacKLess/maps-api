@@ -1,4 +1,4 @@
-export class Obj {
+export class Map {
   constructor(number) {
     number = parseInt(number);
     this.number = number;

@@ -1,4 +1,4 @@
-import { Obj } from './../js/object.js';
+import { Map } from './../js/map.js';
 $(document).ready(function () {
   $('.btn').click(function (e) {
     e.preventDefault();
